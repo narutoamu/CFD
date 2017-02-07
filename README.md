@@ -2,9 +2,9 @@
 
 # Project Title
 
-PC Controller through an Android app
-We would be able to control the mouse and the video player. 
-We can use this app while giving presentation to maneuver the slides too.
+PC Controller through an Android app \\
+We would be able to control the mouse and the video player. \\
+We can use this app while giving presentation to maneuver the slides too.\\
 
 # Prerequisites
 
@@ -35,5 +35,9 @@ Use the App.
 [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html) - Java platform
 
 # Future Scope
+
+Receive screenshot of the server to the client.
+Receive webcam pic from the server to the client. 
+
 
 
