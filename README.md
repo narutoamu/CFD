@@ -27,7 +27,7 @@ Download the APK file on the client side and install the App.
 
 ## Running the tests
 
-Ensure that both client and server side are connected to Internet.
+Ensure that both client and server side are connected to the Internet.
 
 Run the PC_Server.java on the server side.
 
