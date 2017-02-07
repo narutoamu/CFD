@@ -18,7 +18,7 @@ Android supported platform on client side
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Ensure that both client and server side are connected to the Internet.
+Ensure that both client and server side are connected to the same LAN.
 
 Download the PC_Server.java on the server side.
 
@@ -27,7 +27,7 @@ Download the APK file on the client side and install the App.
 
 ## Running the tests
 
-Ensure that both client and server side are connected to the Internet.
+Ensure that both client and server side are connected to the same LAN.
 
 Run the PC_Server.java on the server side.
 
@@ -38,6 +38,10 @@ Fill the required information i.e., name of the server and it's IP Address (IPv4
 Click on the name of the PC in the list, you wish to connect to and then press the connect button.
 
 Use the App.
+
+## Link for Project file
+
+## Demo Video Link
 
 ## Built With
 
@@ -50,3 +54,7 @@ Use the App.
 Receive screenshot of the server to the client.
 
 Receive webcam pic from the server to the client. 
+
+Login for Security
+
+Accessibility even using different LANs.
