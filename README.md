@@ -1,4 +1,4 @@
-# Code.fun.do
+## Code.Fun.Do
 
 # Project Title
 
@@ -50,6 +50,3 @@ Use the App.
 Receive screenshot of the server to the client.
 
 Receive webcam pic from the server to the client. 
-
-
-
